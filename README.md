@@ -6,7 +6,16 @@ Within this repository, I went through the process of learning Next.js and Tailw
 
 ## Demo
 
-[Find the Deployed Site Here](https://tictactoe-jylu.onrender.com/)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="./public/Main.png" alt="initial screen" style="width: 33.33%;">
+  <img src="./public/Second.png" alt="middle of page" style="width: 33.33%;">
+  <img src="./public/Last.png" alt="bottom of page" style="width: 33.33%;">
+  <img src="./public/MainLight.png" alt="initial screen" style="width: 33.33%;">
+  <img src="./public/SecondLight.png" alt="middle of page" style="width: 33.33%;">
+  <img src="./public/LastLight.png" alt="bottom of page" style="width: 33.33%;">
+</div>
+
+
 ## Getting Started
 
 First, run the development server:
@@ -34,13 +43,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework that can be composed to build any design, directly in your markup.
 
 
-## Future Improvements
+## Future Improvements & Challenges Faced
 
-- Improve the website responsiveness so that it can be used on devices other than a desktop
+- Completion of light/dark mode toggle - issues with useState implementation within Next.js.
+- From the very beginning, it was a struggle to understand how Next.js and TailwindCSS even worked in the first place and so understanding this was a huge pain!
 
-- Changing the generic X's and O's to something more creative like Blue/Red pills
 
-- Change the background to be more user engaging such as an image of green lines of code running
+## Key Takeaways
 
-Hopefully you can see where I'm going with this...
-<img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/05/the-matrix-code-keanu-reeves.jpeg" alt="matrix">
+- Managed to learn how to effectively implement Tailwind CSS.
+- Growing understanding of how Next.js works.
+- Improvement on personal CSS/styling ability.
