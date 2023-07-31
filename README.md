@@ -6,16 +6,12 @@ Within this repository, I went through the process of learning Next.js and Tailw
 
 ## Demo
 
-<div class="image-row">
-  <img src="./public/Main.png" alt="initial screen">
-  <img src="./public/Second.png" alt="middle of page">
-  <img src="./public/Last.png" alt="bottom of page">
-</div>
-<div class="image-row">
-  <img src="./public/MainLight.png" alt="initial screen">
-  <img src="./public/SecondLight.png" alt="middle of page">
-  <img src="./public/LastLight.png" alt="bottom of page">
-</div>
+<img src="./public/Main.png" alt="initial screen">
+<img src="./public/Second.png" alt="middle of page">
+<img src="./public/Last.png" alt="bottom of page">
+<img src="./public/MainLight.png" alt="initial screen">
+<img src="./public/SecondLight.png" alt="middle of page">
+<img src="./public/LastLight.png" alt="bottom of page">
 
 
 
