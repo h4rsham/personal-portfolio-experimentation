@@ -9,9 +9,12 @@ Within this repository, I went through the process of learning Next.js and Tailw
 <img src="./public/Main.png" alt="initial screen">
 <img src="./public/Second.png" alt="middle of page">
 <img src="./public/Last.png" alt="bottom of page">
-<img src="./public/MainLight.png" alt="initial screen">
-<img src="./public/SecondLight.png" alt="middle of page">
-<img src="./public/LastLight.png" alt="bottom of page">
+<img src="./public/MainLight.png" alt="light version initial screen">
+<img src="./public/SecondLight.png" alt="light version middle of page">
+<img src="./public/LastLight.png" alt="light version bottom of page">
+<img src="./public/MainSmallt.png" alt="smaller screen version initial screen">
+<img src="./public/SecondSmall.png" alt="smaller screen version middle of page">
+<img src="./public/LastSmall.png" alt="smaller screen version bottom of page">
 
 
 
