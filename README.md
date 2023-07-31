@@ -2,7 +2,7 @@
 
 ## Description
 
-Within this repository, I went through the process of learning Next.js and Tailwind CSS to expand my knowledge and create a portfolio website. By the end of it, I had come to the conclusion that it did not meet my standards of what would be used to represent me and so I have decided to go about creating an alternative portfolio website. Nevertheless, it was an interesting and eye-opening journey that has made me improve as a developer✅
+Within this repository, I went through the process of learning Next.js and Tailwind CSS to expand my knowledge and create a portfolio website. Through the use of Tailwind, I was able to learn closely how to optimise the application so that it worked on screens of varying sizes. By the end of it, I had come to the conclusion that it did not meet my standards of what would be used to represent me and so I have decided to go about creating an alternative portfolio website. Nevertheless, it was an interesting and eye-opening journey that has made me improve as a developer✅
 
 ## Demo
 
