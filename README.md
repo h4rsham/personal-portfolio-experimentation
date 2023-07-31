@@ -6,14 +6,17 @@ Within this repository, I went through the process of learning Next.js and Tailw
 
 ## Demo
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="./public/Main.png" alt="initial screen" style="width: 33.33%;">
-  <img src="./public/Second.png" alt="middle of page" style="width: 33.33%;">
-  <img src="./public/Last.png" alt="bottom of page" style="width: 33.33%;">
-  <img src="./public/MainLight.png" alt="initial screen" style="width: 33.33%;">
-  <img src="./public/SecondLight.png" alt="middle of page" style="width: 33.33%;">
-  <img src="./public/LastLight.png" alt="bottom of page" style="width: 33.33%;">
+<div class="image-row">
+  <img src="./public/Main.png" alt="initial screen">
+  <img src="./public/Second.png" alt="middle of page">
+  <img src="./public/Last.png" alt="bottom of page">
 </div>
+<div class="image-row">
+  <img src="./public/MainLight.png" alt="initial screen">
+  <img src="./public/SecondLight.png" alt="middle of page">
+  <img src="./public/LastLight.png" alt="bottom of page">
+</div>
+
 
 
 ## Getting Started
@@ -54,3 +57,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Managed to learn how to effectively implement Tailwind CSS.
 - Growing understanding of how Next.js works.
 - Improvement on personal CSS/styling ability.
+
+<style>
+  .image-row {
+    display: flex;
+  }
+
+  .image-row img {
+    width: 33.33%;
+  }
+</style>
