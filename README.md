@@ -51,8 +51,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - From the very beginning, it was a struggle to understand how Next.js and TailwindCSS even worked in the first place and so understanding this was a huge pain!
 
 
-## Key Takeaways
+## Key Takeaways & Successes
 
 - Managed to learn how to effectively implement Tailwind CSS.
 - Growing understanding of how Next.js works.
 - Improvement on personal CSS/styling ability.
+- Optimised application for multiple screen sizes.
