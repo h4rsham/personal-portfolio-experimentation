@@ -57,9 +57,7 @@ export default function Home() {
               Software Developer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 md:text-xl max-w-xl mx-auto">
-              After completing the 16-week intensive School of Code Full Stack
-              Development bootcamp, I am ready to get stuck into the tech
-              industry and grow until my fingers can't move any more!
+              After completing the 16-week intensive School of Code Full Stack Development bootcamp, I am ready to get stuck into the tech industry and grow until my fingers cannot move any more!
             </p>
           </div>
           <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
