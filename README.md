@@ -40,7 +40,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Built With
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Next](https://nextjs.org/) - A a popular open-source framework for building server-rendered React applications.
 - [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework that can be composed to build any design, directly in your markup.
 
